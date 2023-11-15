@@ -21,5 +21,5 @@ The ideal state of the game should fit the following:
 - **[[Blocks]]** 
 - **[[Entities]]**
 - **[[Maps]]**
-- **[[Combat System]]
+- **[[Combat System]]**
 

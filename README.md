@@ -1,25 +1,6 @@
 # Platformer Game
-Game doc
+## DragonHuntrX
 
-This is the game doc for my platformer game in Rust Bevy ECS.
+This is a game made by me, DragonHuntrX, to learn the ins and outs of game development by code, and to become more proficient at programming in Rust and using ECS system.
 
-## Goals:
-The goals of this project are the following:
-- Make a game in Rust 
-- Gain a heightened familiarity with Rust programming
-- Learn basics of game development
-- Have fun!
-
-## Game Objectives
-The ideal state of the game should fit the following:
-- Should be platformer based.
-- Have a simple, fun combat system.
-- Tileable [[Maps|maps]], with [[Blocks|blocks]] that have different affects and attributes.
-- Easily load maps from files.
-## Mechanics:
-- **Movement system: Impulse based**
-- **[[Blocks]]** 
-- **[[Entities]]**
-- **[[Maps]]**
-- **[[Combat System]]
-
+If you are interested in the documentation and planning of the game, there is an obsidian wiki in [Platformer Notes](./Platformer%20Notes/)
